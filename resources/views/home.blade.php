@@ -1,7 +1,7 @@
 @extends('layouts.main')
 @section('container')
-    <div class="shadow ">
-        <img src="/img/for web.jpg" class="img-fluid rounded " alt="fotogedung" />
+    <div class="shadow">
+        <img src="/img/for web.jpg" class="img-fluid rounded" alt="fotogedung" />
     </div>
     <div class="container">
         <div class="row mt-5">
